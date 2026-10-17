@@ -6,7 +6,7 @@ This project focuses on analyzing call center performance using Microsoft Excel.
 The dashboard helps understand call center operations and identify patterns in call activity and performance.
 
 ## Project Objectives
-- Analyze the overall number of call.
+- Analyze the overall number of calls.
 - Track call trends across different months.
 - Analyze call amounts and call duration.
 - Compare female and male callers across different cities.
