@@ -42,7 +42,8 @@ The dashboard helps understand call center operations and identify patterns in c
 This project demonstrates how Microsoft Excel can be used to organize, analyze, and visualize call center data through an interactive dashboard. It helps prevent key performance indicators and makes it easier to understand call center performance.
 ## Project Type
 Excel Data Analytics Project.
-- 
+## Dashboard Preview
+![Call center report](call_center_dashboard.png)
 
 
   
