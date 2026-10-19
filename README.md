@@ -43,7 +43,7 @@ This project demonstrates how Microsoft Excel can be used to organize, analyze, 
 ## Project Type
 Excel Data Analytics Project.
 ## Dashboard Preview
-![call center performance dashboard](call%20center%20dashboard.png)
+![call center performance dashboard](call%20center%20dashboard.PNG)
 
 
   
